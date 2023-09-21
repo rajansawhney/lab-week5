@@ -1,12 +1,13 @@
 # ICS 212
-## Lab - Week 4
+## Lab - Week 5
 
-# Branching
+# Loops
 
 ### Assignment:
-- Update admission.c and parity.c following homework assignment description provided in LabAssignment_Week4.pdf (uploaded on Laulima)
+- Update continue-break.c, nested1.c, nested2.c, and nested3.c following assignment description provided in LabAssignment_Week5.pdf (uploaded on Laulima) - graded
+- Create new c files for other practise problems for your reference - not graded
 
-NOTE: Github is not a place to test your code. Test it on your machines first. Autograding will be disabled if you exceed 10 commits. We will start out by sending emails to you personally if you exceed 10 commits, and eventually penalizing your grade.
+**NOTE**: Github is not a place to test your code. Test it on your machines first. Autograding will be disabled if you exceed 10 commits. We will start out by sending emails to you personally if you exceed 10 commits, and eventually penalizing your grade.
 
 ### Steps to submit changes:
 1. Click on desired .c to open file
